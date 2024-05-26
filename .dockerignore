@@ -1,0 +1,8 @@
+
+.idea
+target
+.dockerignore
+.env
+redis.env
+.gitignore
+docker-compose.yml
